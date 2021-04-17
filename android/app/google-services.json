@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908255906294",
+    "project_id": "zerveemobile-300604",
+    "storage_bucket": "zerveemobile-300604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908255906294:android:b10707cff1b5271b999fd7",
+        "android_client_info": {
+          "package_name": "com.zervee.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908255906294-98se4sgpbdk91decl5av71gq5dh9cpah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbBgVgVUiJks8nqrlvk1-rr-JyKKSvh18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908255906294-98se4sgpbdk91decl5av71gq5dh9cpah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

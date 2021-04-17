@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zervee</string>
+    <string name="facebook_app_id">442555296859950</string>
+    <string name="fb_login_protocol_scheme">fb442555296859950</string>
+</resources>
